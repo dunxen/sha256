@@ -40,3 +40,6 @@ nosetests.xml
 
 # Vim
 *.sw*
+
+# virtualenv
+.venv
